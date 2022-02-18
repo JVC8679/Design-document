@@ -1,3 +1,6 @@
+CS 230 Project Software Design
+
+
 1-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
   - The Gaming Room, currently has a game application, Draw It or Lose It, that was created for Android systems. They would like to expand it to other operating platforms. Draw It     or Lose It is a multi-user game application that must have the ability to run multiple instances of the game at once, each having players and teams. The Gaming Room will have     200 high-definition image files to choose from, each one approximately 8 megabytes in size. The Gaming Room has asked me to evaluate the three traditional operating platforms     (Linux, Mac, and Windows), as well as mobile platforms, for how the game application software could be deployed and run and what would be required to do so. The client has         requested that I conduct an evaluation of the characteristics, advantages, and weaknesses of each platform and include your findings in the software design template. This will     help to inform their decision on the benefits of each platform and their utility in a distributed environment.
   
